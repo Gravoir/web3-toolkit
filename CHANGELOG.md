@@ -16,3 +16,5 @@
 - Update 8: improvements and fixes
 # Changelog update 9
 - Update 9: improvements and fixes
+# Changelog update 10
+- Update 10: improvements and fixes
