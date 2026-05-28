@@ -8,3 +8,5 @@
 - Update 4: improvements and fixes
 # Changelog update 5
 - Update 5: improvements and fixes
+# Changelog update 6
+- Update 6: improvements and fixes
